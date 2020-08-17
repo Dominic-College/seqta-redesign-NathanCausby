@@ -59,9 +59,11 @@ last {
 	
 	color: white;
 	font-size: 11px;
-	text-align: center;
-	margin-left: center;
-  margin-right: center;
+ 	text-align:center;
+	display: block; 
+	margin: auto;
+
+
 }
 button {
   font-family: trajan-pro-3, serif;
