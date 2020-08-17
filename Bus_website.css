@@ -1,3 +1,6 @@
+body {
+	background-color: #800000
+}
 h1 {
   width: 625px;
   line-height: 1.2;
@@ -9,8 +12,9 @@ h1 {
   font-weight: 600;
   font-style: normal;
   font-size: 2em;
-  text-shadow: 1px 1px 2px #000000;
   Color: rgb(255, 204, 0);
+  text-shadow: 3px 3px 8px #000000;
+	
 }
 span {
   color: rgb(51, 51, 255);
@@ -29,7 +33,7 @@ h2 {
 }
 h3 {
   width: 620px;
-  color: rgb(51, 51, 255);
+  color: white;
   text-align: left;
   margin-left: left;
   margin-right: left;
@@ -38,8 +42,13 @@ p {
   text-align: left;
   margin-left: left;
   margin-right: left;
-  color: rgb(0, 0, 128);
+  color:white;
   /*Make smaller and add links to the website*/
+}
+last {
+	text-align: center;
+	color: white;
+	font-size: 11px;
 }
 heading {
   font-family: trajan-pro-3, serif;
