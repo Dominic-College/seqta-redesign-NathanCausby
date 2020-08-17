@@ -76,10 +76,10 @@ last {
 }
 button {
   font-family: trajan-pro-3, serif;
-  font-weight: 600;
+  
   font-style: normal;
   color:rgba(233,225,0,1.00);
-  text-shadow: 3px 3px 8px #000000;
+  text-shadow: 3pxfont-weight: 600; 3px 8px #000000;
   /*Go to Top Button */
   position:static;
   bottom: 20px;
