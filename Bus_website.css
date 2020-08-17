@@ -1,6 +1,17 @@
 body {
-	background-color: #800000
+	background-color:#1e345d;
 }
+.noscroll { 
+  overflow: hidden;
+}
+
+.overlay { 
+   position: fixed; 
+   overflow-y: scroll;
+   top: 0; right: 0; bottom: 0; left: 0; }
+
+[aria-hidden="true"]  { display: none; }
+[aria-hidden="false"] { display: block; }
 h1 {
   width: 625px;
   line-height: 1.2;
@@ -11,13 +22,12 @@ h1 {
   font-family: trajan-pro-3, serif;
   font-weight: 600;
   font-style: normal;
-  font-size: 2em;
-  Color: rgb(255, 204, 0);
+  Color:#a2863d;
   text-shadow: 3px 3px 8px #000000;
 	
 }
 span {
-  color: rgb(51, 51, 255);
+  color:#a2863d;
   font-size: 50px;
   text-align: left;
   margin-left: left;
@@ -33,7 +43,7 @@ h2 {
 }
 h3 {
   width: 620px;
-  color: white;
+  color:#89a9e2;
   text-align: left;
   margin-left: left;
   margin-right: left;
@@ -46,11 +56,14 @@ p {
   /*Make smaller and add links to the website*/
 }
 last {
-	text-align: center;
+	
 	color: white;
 	font-size: 11px;
+	text-align: center;
+	margin-left: center;
+  margin-right: center;
 }
-heading {
+button {
   font-family: trajan-pro-3, serif;
   font-weight: 600;
   font-style: normal;
@@ -64,9 +77,15 @@ heading {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: red;
+  background-color:#89a9e2;
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
+}
+
+
+.background-content{
+    height: 100%;
+    overflow: auto;
 }
 /*line
