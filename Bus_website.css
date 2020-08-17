@@ -99,4 +99,27 @@ button {
     height: 100%;
     overflow: auto;
 }
+lowbutton {
+    position: fixed;
+    bottom: 10px;
+    float: right;
+    right: 20.5%;
+    left: 77.25%;
+    max-width: 90px;
+    width: 100%;
+    font-size: 12px;
+    border-color: rgba(5, 82, 248);
+     background-color:#89a9e2;
+	padding: .5px;
+    border-radius: 4px;
+     font-family: trajan-pro-3, serif;
+	  cursor: pointer;
+	 border: none;
+  outline: none;
+	color:rgba(233,225,0,1.00);
+  text-shadow: 3px 3px 8px #000000;
+
+
+}
+
 /*line
