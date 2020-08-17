@@ -8,11 +8,12 @@ body {
   background-attachment: fixed;
   background-position: right; ;
   background-size:700px;
-}
+	/* Loading screen from now on */
 	
-.noscroll { 
-  overflow: hidden;
+	
+	
 }
+
 
 .overlay { 
    position: fixed; 
@@ -79,7 +80,6 @@ button {
   
   font-style: normal;
   color:rgba(233,225,0,1.00);
-  text-shadow: 3pxfont-weight: 600; 3px 8px #000000;
   /*Go to Top Button */
   position:static;
   bottom: 20px;
@@ -121,5 +121,8 @@ lowbutton {
 
 
 }
+
+
+
 
 /*line
