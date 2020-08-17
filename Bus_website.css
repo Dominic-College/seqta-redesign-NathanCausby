@@ -45,7 +45,7 @@ heading {
   font-family: trajan-pro-3, serif;
   font-weight: 600;
   font-style: normal;
-  color: rgb(255, 128, 0);
+  color:rgba(233,225,0,1.00);
   text-shadow: 3px 3px 8px #000000;
   /*Go to Top Button */
   position: fixed;
