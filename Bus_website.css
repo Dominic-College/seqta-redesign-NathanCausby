@@ -1,6 +1,15 @@
 body {
 	background-color:#1e345d;
+  background-image:url(https://www.metrotas.com.au/wp-content/uploads/2019/01/Metro-Tasmania-30-e1570504101350-640x400.jpg);
+  margin: 15px;
+  background-repeat: no-repeat;
+  color: white;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right; ;
+  background-size:300px;
 }
+	
 .noscroll { 
   overflow: hidden;
 }
