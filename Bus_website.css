@@ -63,6 +63,7 @@ p {
   margin-left: left;
   margin-right: left;
   color:white;
+font-family: Atexbode Garamond Pro, serif;
   /*Make smaller and add links to the website*/
 }
 last {
@@ -72,6 +73,7 @@ last {
  	text-align:center;
 	display: block; 
 	margin: auto;
+	
 
 
 }
@@ -79,7 +81,7 @@ button {
   font-family: trajan-pro-3, serif;
   
   font-style: normal;
-  color:rgba(233,225,0,1.00);
+  color:#8b1c40;
   /*Go to Top Button */
   position:static;
   bottom: 20px;
@@ -116,8 +118,9 @@ lowbutton {
 	  cursor: pointer;
 	 border: none;
   outline: none;
-	color:rgba(233,225,0,1.00);
+	color:#8b1c40;
   text-shadow: 3px 3px 8px #000000;
+	
 
 
 }
