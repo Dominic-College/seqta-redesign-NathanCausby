@@ -2,7 +2,6 @@ body {
   background-color: #1e345d;
   background-repeat: no-repeat;
   color: white;
-  background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: 700px;
@@ -37,7 +36,6 @@ h1 {
   font-size: 2em;
   font-family: trajan-pro-3, serif;
   font-weight: 600;
-  ;
   font-style: normal;
   Color: #a2863d;
   text-shadow: 3px 3px 8px #000000;
