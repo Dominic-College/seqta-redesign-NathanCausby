@@ -7,7 +7,7 @@ body {
   background-position: center;
   background-size: 700px;
   text-align: center;
-  /* Loading screen from now on */
+  
 }
 img {
   width: 900px
@@ -34,13 +34,12 @@ h1 {
   margin-right: center;
   margin-bottom: center;
   margin: top;
-  font-size: 2em;
   font-family: trajan-pro-3, serif;
   font-weight: 600;
   font-style: normal;
   Color: #a2863d;
   text-shadow: 3px 3px 8px #000000;
-	font-size: 65px;
+  font-size: 65px;
 }
 span {
   color: #a2863d;
@@ -134,13 +133,12 @@ lowbutton {
 
 /* Hide the images by default */
 .mySlides {
-  display: none;
+  display:none;
 }
 
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
-  position: absolute;
   top: 50%;
   width: auto;
   margin-top: -22px;
@@ -167,7 +165,7 @@ lowbutton {
 /* Caption text */
 .text {
   color: #f2f2f2;
-  font-size: 15px;
+  font-size: 25px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
@@ -216,5 +214,7 @@ lowbutton {
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+credit { 
 }
 /*line
