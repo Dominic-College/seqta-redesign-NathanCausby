@@ -216,5 +216,10 @@ lowbutton {
   to {opacity: 1}
 }
 credit { 
+	 color: gold;
+  font-size: 30px;
+  text-align: center;
+  display: block;
+  margin: auto;
 }
 /*line
