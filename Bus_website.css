@@ -4,10 +4,8 @@ body {
   background-repeat: no-repeat;
   color: white;
   background-attachment: fixed;
-  background-position: center;
+  background-position: left;
   background-size: 700px;
-  text-align: center;
-  
 }
 img {
   width: 900px
@@ -39,11 +37,11 @@ h1 {
   font-style: normal;
   Color: #a2863d;
   text-shadow: 3px 3px 8px #000000;
-  font-size: 65px;
+  font-size: 3em;
 }
 span {
   color: #a2863d;
-  font-size: 70px;
+  font-size: 2em;
   text-align: center;
   margin-left: center;
   margin-right: center;
@@ -59,23 +57,32 @@ h2 {
 h3 {
   
   color: #89a9e2;
-  text-align: center;
-  margin-left: center;
-  margin-right: center;
-	font-size: 60px
+  text-align:left;
+  margin-left: left;
+  margin-right: left;
+font-size: 2.5em
 }
 p {
-  text-align: center;
-  margin-left: center;
-  margin-right: center;
+  text-align: left;
+  margin-left: left;
+  margin-right: left;
   color: white;
   font-family: Atexbode Garamond Pro, serif;
-	font-size: 40px;
+	font-size:2em;
   /*Make smaller and add links to the website*/
+}
+pright {
+	text-align: right;
+  margin-left: right;
+  margin-right: right;
+  color: white;
+  font-family: Atexbode Garamond Pro, serif;
+	font-size:2em;
+	
 }
 last {
   color: white;
-  font-size: 20px;
+  font-size: 1em;
   text-align: center;
   display: block;
   margin: auto;
@@ -145,7 +152,7 @@ lowbutton {
   padding: 16px;
   color: white;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 1em;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
@@ -170,7 +177,7 @@ lowbutton {
   position: absolute;
   bottom: 8px;
   width: 100%;
-  text-align: center;
+  text-align: left;
 }
 
 /* Number text (1/3 etc) */
@@ -217,7 +224,7 @@ lowbutton {
 }
 credit { 
 	 color: gold;
-  font-size: 30px;
+  font-size: 1em;
   text-align: center;
   display: block;
   margin: auto;
