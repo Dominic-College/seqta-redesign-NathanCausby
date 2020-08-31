@@ -1,4 +1,14 @@
 @import url("Bus_website.js.css");
+pright {
+	
+	margin-left: left;
+	margin-right: Left;
+	margin-top: left;
+	margin-bottom:left;
+  color: white;
+  font-family: Atexbode Garamond Pro, serif;
+	font-size:2em;
+	}
 body {
   background-color: #1e345d;
   background-repeat: no-repeat;
@@ -6,6 +16,8 @@ body {
   background-attachment: fixed;
   background-position: left;
   background-size: 700px;
+  text-align: left;
+  
 }
 img {
   width: 900px
@@ -57,9 +69,9 @@ h2 {
 h3 {
   
   color: #89a9e2;
-  text-align:left;
-  margin-left: left;
-  margin-right: left;
+  text-align:center;
+  margin-left: center;
+  margin-right: center;
 font-size: 2.5em
 }
 p {
@@ -71,15 +83,7 @@ p {
 	font-size:2em;
   /*Make smaller and add links to the website*/
 }
-pright {
-	text-align: right;
-  margin-left: right;
-  margin-right: right;
-  color: white;
-  font-family: Atexbode Garamond Pro, serif;
-	font-size:2em;
-	
-}
+
 last {
   color: white;
   font-size: 1em;
