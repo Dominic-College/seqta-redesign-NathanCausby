@@ -5,9 +5,9 @@ pright {
 	margin-right: Left;
 	margin-top: left;
 	margin-bottom:left;
-  color: white;
-  font-family: Atexbode Garamond Pro, serif;
-	font-size:2em;
+    color: white;
+    font-family: Atexbode Garamond Pro, serif;
+	font-size:1em;
 	}
 body {
   background-color: #1e345d;
@@ -17,7 +17,7 @@ body {
   background-position: left;
   background-size: 700px;
   text-align: left;
-	width:80%;
+  width:80%;
   
 }
 img {
@@ -50,11 +50,11 @@ h1 {
   font-style: normal;
   Color: #a2863d;
   text-shadow: 3px 3px 8px #000000;
-  font-size: 3em;
+  font-size: 1em;
 }
 span {
   color: #a2863d;
-  font-size: 2em;
+  font-size: 1em;
   text-align: center;
   margin-left: center;
   margin-right: center;
@@ -73,7 +73,7 @@ h3 {
   text-align:center;
   margin-left: center;
   margin-right: center;
-font-size: 2.5em
+  font-size: 1.5em
 }
 p {
   text-align: left;
@@ -81,7 +81,7 @@ p {
   margin-right: left;
   color: white;
   font-family: Atexbode Garamond Pro, serif;
-	font-size:2em;
+  font-size:1em;
   /*Make smaller and add links to the website*/
 }
 
@@ -228,7 +228,7 @@ lowbutton {
   to {opacity: 1}
 }
 credit { 
-	 color: gold;
+  color: gold;
   font-size: 1em;
   text-align: center;
   display: block;
